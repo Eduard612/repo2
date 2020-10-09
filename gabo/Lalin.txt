@@ -1,0 +1,5 @@
+<script>
+      document.write("Hola Mundo");
+</script>
+
+esto es para la version 2
